@@ -3,7 +3,8 @@
 
 # Payload
 
-A shellcode injector written in C# that implements several advanced evasion techniques to bypass security solutions. It uses a modular approach with a careful implementation of native Windows API calls via P/Invoke. The program can be used with a 
+A shellcode injector written in C# that implements several advanced evasion techniques to bypass security solutions. It uses a modular approach with a careful implementation of native Windows API calls via P/Invoke. The program can be used with a metasploit shellcode in C# format.
+
 ## Features
 
 - Shellcode injection via suspended process creation
