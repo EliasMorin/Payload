@@ -1,9 +1,10 @@
 
+![Logo](https://media.licdn.com/dms/image/v2/D4D12AQEa_J0dinoDtA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721187455024?e=2147483647&v=beta&t=OtHRrGsNAtI5sZkYV9Uu0D-Q8JAcbUYymXGepoRxwQs)
+
+
 # Payload
 
-A shellcode injector written in C# that implements several advanced evasion techniques to bypass security solutions. It uses a modular approach with a careful implementation of native Windows API calls via P/Invoke.
-
-
+A shellcode injector written in C# that implements several advanced evasion techniques to bypass security solutions. It uses a modular approach with a careful implementation of native Windows API calls via P/Invoke. The program can be used with a 
 ## Features
 
 - Shellcode injection via suspended process creation
@@ -29,3 +30,10 @@ A shellcode injector written in C# that implements several advanced evasion tech
 Payload.exe
 ```
 
+
+## Environment Variables
+
+- You can use ConfuserEx on the executable to make it more FUD 
+- You can also study the possibility to use an XOR shellcode
+
+![image](https://github.com/user-attachments/assets/52dcdd6f-ab22-4797-aaeb-338f99977d63)
