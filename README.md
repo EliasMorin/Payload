@@ -1,7 +1,6 @@
 
 ![Logo](https://media.licdn.com/dms/image/v2/D4D12AQEa_J0dinoDtA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721187455024?e=2147483647&v=beta&t=OtHRrGsNAtI5sZkYV9Uu0D-Q8JAcbUYymXGepoRxwQs)
-![Logo](https://github.com/user-attachments/assets/0665b948-c0bb-45b7-942e-4f5f6f5bba54)
-
+![Logo](https://github.com/user-attachments/assets/1a047960-5634-4d0c-bfd4-af719c1733b7)
 
 # Payload
 
