@@ -24,6 +24,8 @@ A shellcode injector written in C# that implements several advanced evasion tech
 - Testing for large amount of memory allocation
 - Mutex checking
 - NUMA Allocation Test
+
+  
 ## Usage
 
 ```
@@ -31,7 +33,7 @@ Payload.exe
 ```
 
 
-## Environment Variables
+## More
 
 - You can use ConfuserEx on the executable to make it more FUD 
 - You can also study the possibility to use an XOR shellcode
