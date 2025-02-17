@@ -4,7 +4,7 @@ using System.IO;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace Charles
+namespace Payload
 {
     public class DELEGATES
     {
